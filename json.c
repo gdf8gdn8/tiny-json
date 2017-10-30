@@ -23,6 +23,9 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 For more information, please refer to <http://unlicense.org/>*/
 
+/**
+ author: uwe strempel <u.strempel@gmail.com>
+ */
 #include "json.h"
 #include <string.h>
 #include <stdlib.h>

@@ -23,6 +23,10 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 For more information, please refer to <http://unlicense.org/>*/
 
+/**
+ author: uwe strempel <u.strempel@gmail.com>
+ */
+
 #include "json.h"
 static void print_dict(json_dict_t *dict);
 static void print_list(json_list_t *dict);

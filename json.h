@@ -23,7 +23,12 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 For more information, please refer to <http://unlicense.org/>*/
 
-#pragma once
+/**
+ author: uwe strempel <u.strempel@gmail.com>
+ */
+#ifndef  __H_JSON__
+#define  __H_JSON__
+
 #include <stdlib.h>
 #include <stdio.h>
 #include "list.h"
@@ -155,3 +160,4 @@ int json_clone_value(json_value_t *value,json_value_t *out);
 int json_destroy_value(json_value_t* value);
 int json_free(json_dict_t *pscr);
 
+#endif // define

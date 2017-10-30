@@ -22,7 +22,9 @@ ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 
 For more information, please refer to <http://unlicense.org/>*/
-
+/**
+ author: uwe strempel <u.strempel@gmail.com>
+ */
 
 #ifndef __LIST_H
 #define __LIST_H
